@@ -1,4 +1,4 @@
-# Jeevah — Tri-Dhat Tongue Image Research
+# Jeevah — Tri-Dosha Tongue Image Research
 
 Jeevah is a local research prototype that classifies a tongue image into three Traditional Thai Medicine (TTM) Tri-Dhat categories: **Pitta, Vata, and Kapha**. It uses a React web interface, a FastAPI service, and a TensorFlow/Keras DenseNet121 model. The page shows all three model scores and an educational food guide matched to the highest score.
 
